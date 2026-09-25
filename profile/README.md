@@ -1,13 +1,28 @@
-## AiramTec 👋
-AiramTec es un proyecto de Airam
-Está atento, iré añadiendo más información, ideas y recursos a lo largo del tiempo
-<!--
+AiramTec
+Libertad para innovar
 
-**Here are some ideas to get you started:**
+Tecnología · Sistemas · Automatización · Desarrollo
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AiramTec es un proyecto tecnológico orientado al desarrollo
+de soluciones, infraestructura y servicios digitales.
+
+Proyectos
+─────────
+• Web
+• Infraestructura
+• Automatización
+• Sistemas
+• Desarrollo
+
+Infraestructura
+───────────────
+Cloudflare
+Clouding
+OpenWrt
+Debian
+GitHub
+Cubbit
+
+Contacto
+────────
+www.airamtec.com
